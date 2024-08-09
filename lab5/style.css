@@ -181,6 +181,10 @@ audio {
   padding: 10px;
 }
 
+.flex-pair label {
+  margin-right: 10px; /* Adjust spacing between label and input */
+  font-weight: bold; /* Make labels more distinct */
+}
 .show-hide {
   cursor: pointer;
 }
