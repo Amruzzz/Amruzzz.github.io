@@ -1,4 +1,8 @@
-// functionality for showing/hiding the comments section
+//Name: Amarnath Pradeep
+//File: main.js
+//Date: 08 August 2024
+
+//functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
 const commentWrapper = document.querySelector('.comment-wrapper');
